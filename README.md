@@ -73,12 +73,9 @@ This project is designed to be easily run in Google Colaboratory. Follow these s
 * Utilizes machine learning algorithms to learn patterns from the data.
 * Provides an estimate of healthcare expenses.
 
-## Results (Optional)
+## Results
 
-[Optionally, you can include a brief summary of the model's performance. For example:]
-
-* The trained model achieved an R-squared score of [mention the score] on the test dataset, indicating that it explains [percentage]% of the variance in health insurance costs.
-* The Root Mean Squared Error (RMSE) was [mention the RMSE value], suggesting an average prediction error of $[mention the error value].
+* The trained model achieved an R-squared score of 0.7447273869684076 on the test dataset.].
 
 ## Potential Enhancements
 
@@ -93,7 +90,6 @@ Here are some ideas for further development and improvement:
 
 ## Credits
 
-* The code in this project was written by [Your Name/GitHub Username].
-* The dataset used in this project is attributed to [Mention the original source again if needed].
+* The code in this project was written by [RITIK ANAND/1RITIK-ANAND].
 * This project utilizes the following open-source libraries: [List the main libraries used again, e.g., Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn].
 
